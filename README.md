@@ -1,6 +1,6 @@
 # UniProt XML parser
 
-Module for extraction of protein information from UniProt XML page (UniProt ID, Protein Names: Full Recommended, 
+Module for extraction of protein information from UniProt XML page (UniProt ID; Protein Names: Full Recommended, 
 Short Recommended, Full Submitted, Short Submitted, Full Alternative and Short Alternative; Gene names: Primary and Synonym; 
 text that describes protein functions) and save it to json object or excel file (*.xlsx* format).  
 
